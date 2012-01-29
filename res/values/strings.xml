@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, ScreenWarActivity!</string>
+    <string name="app_name">ScreenWar</string>
+    <string name="NotImplemented">Não Implementado</string>
+    <string name="teste">Teste</string>
+    <string name="loser">Loser:</string>
+    <string name="winner">Winner:</string>
+</resources>

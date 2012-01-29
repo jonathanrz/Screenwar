@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:baselineAligned="false"
+    android:weightSum="100">
+    
+    <LinearLayout
+        android:id="@+id/ScreenPlayer1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="50"
+        android:orientation="vertical"
+        android:background="#ff0000"
+        android:clickable="true">
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/ScreenPlayer2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="50"
+        android:orientation="vertical"
+        android:background="#00ff00"
+        android:clickable="true">
+    </LinearLayout>
+
+</LinearLayout>
